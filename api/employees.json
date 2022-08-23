@@ -1,0 +1,20 @@
+{
+  "employees": [
+    {
+      "name": "safi",
+      "salary": "21333",
+      "email": "dasda@d.com",
+      "age": "21",
+      "address": "Madrid ST",
+      "id": 1
+    },
+    {
+      "name": "hamza",
+      "salary": "2000",
+      "email": "dad@dadada.com",
+      "age": "20",
+      "address": "jericho",
+      "id": 2
+    }
+  ]
+}
